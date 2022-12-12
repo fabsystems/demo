@@ -1,11 +1,18 @@
 {"test": {"id": "MAIN",
   "last_name": "ANKENBRAND",
   "given_name": "FABIAN"},
-"locations": {"id": "location1",
+"locations": [{"id": "location1",
   "name": "Pizzeria",
   "type": "Italian",
   "cityName": "Nuremberg",
   "coordinates": "ERROR",
   "description": "Description",
-  "imageNames": ["PIC1", "PIC2"]}}
+  "imageNames": ["PIC1", "PIC2"]}, 
+  {"id": "location2",
+  "name": "Chinese",
+  "type": "Chinese",
+  "cityName": "Bamberg",
+  "coordinates": "ERROR",
+  "description": "Description",
+  "imageNames": ["PIC1", "PIC2"]}]}
 
