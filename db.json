@@ -1,4 +1,12 @@
 {"test": {"id": "MAIN",
   "last_name": "ANKENBRAND",
-  "given_name": "FABIAN"}}
+  "given_name": "FABIAN"},
+"locations": {"id": "location1",
+  "name": "Pizzeria",
+  "type": "Italian",
+  "cityName": "Nuremberg",
+  "coordinates": "ERROR",
+  "description": "Description",
+  "imageNames": {"PIC1", "PIC2"}}
+}
 
